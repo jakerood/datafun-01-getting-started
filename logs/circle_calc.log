@@ -1,0 +1,11 @@
+2023-08-25 15:50:13,082.circle_calc.INFO ==================================================
+2023-08-25 15:50:13,082.circle_calc.INFO Today is 2023-08-25 at 03:50 PM
+2023-08-25 15:50:13,082.circle_calc.INFO Running on: posix Darwin 20.4.0
+2023-08-25 15:50:13,082.circle_calc.INFO Python version:  3.11.4
+2023-08-25 15:50:13,082.circle_calc.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-08-25 15:50:13,082.circle_calc.INFO Working dir: /Users/jakerood/Documents/NW_Missouri/datafun-01-getting-started
+2023-08-25 15:50:13,082.circle_calc.INFO ==================================================
+2023-08-25 15:50:19,970.circle_calc.INFO The area of a circle with radius 3.7 is 43.008403427644275.
+2023-08-25 15:50:19,971.circle_calc.INFO Eww... that's a lot of decimal places - tmi!
+2023-08-25 15:50:19,971.circle_calc.INFO The area of a circle with radius 3.7 is 43.01.
+2023-08-25 15:50:19,971.circle_calc.INFO Much better! (After you fix it.)
