@@ -1,0 +1,18 @@
+2023-08-25 15:33:34,653.acquainted.INFO ==================================================
+2023-08-25 15:33:34,653.acquainted.INFO Today is 2023-08-25 at 03:33 PM
+2023-08-25 15:33:34,653.acquainted.INFO Running on: posix Darwin 20.4.0
+2023-08-25 15:33:34,653.acquainted.INFO Python version:  3.11.4
+2023-08-25 15:33:34,654.acquainted.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-08-25 15:33:34,654.acquainted.INFO Working dir: /Users/jakerood/Documents/NW_Missouri/datafun-01-getting-started
+2023-08-25 15:33:34,654.acquainted.INFO ==================================================
+2023-08-25 15:33:34,654.acquainted.INFO Name: Jake Rood 
+2023-08-25 15:33:34,654.acquainted.INFO State: Iowa
+2023-08-25 15:33:34,654.acquainted.INFO Country: USA
+2023-08-25 15:33:34,654.acquainted.INFO Pet count: 2
+2023-08-25 15:33:34,654.acquainted.INFO Double the pet count: 4
+2023-08-25 15:33:34,654.acquainted.INFO Skill count: 69
+2023-08-25 15:33:34,654.acquainted.INFO Temperature: 75.0
+2023-08-25 15:33:34,654.acquainted.INFO Pet weight: 15.2
+2023-08-25 15:33:34,654.acquainted.INFO Has dog: True
+2023-08-25 15:33:34,654.acquainted.INFO Likes analytics: True
+2023-08-25 15:33:34,654.acquainted.INFO Likes Python: True
