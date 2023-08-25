@@ -2,7 +2,7 @@
 ======================================================================
 ======================================================================
  Welcome to the NW Python Debugging Information Utility!
- Date and Time: 2023-08-25 at 03:14 PM
+ Date and Time: 2023-08-25 at 03:59 PM
  Operating System: posix Darwin 20.4.0
  System Architecture: 64bit
  Number of CPUs: 4
@@ -12,7 +12,7 @@
  Python Implementation: CPython
  Active pip environment:   None
  Active conda environment: None
- Path to Interpreter:         /Library/Frameworks/Python.framework/Versions/3.11/bin/python3
+ Path to Interpreter:         /usr/local/bin/python3
  Path to virtual environment: /Library/Frameworks/Python.framework/Versions/3.11
  Current Working Directory:   /Users/jakerood/Documents/NW_Missouri/datafun-01-getting-started
  Path to source directory:    /Users/jakerood/Documents/NW_Missouri/datafun-01-getting-started
