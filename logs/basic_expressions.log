@@ -1,0 +1,11 @@
+2023-08-25 15:42:50,446.basic_expressions.INFO ==================================================
+2023-08-25 15:42:50,446.basic_expressions.INFO Today is 2023-08-25 at 03:42 PM
+2023-08-25 15:42:50,447.basic_expressions.INFO Running on: posix Darwin 20.4.0
+2023-08-25 15:42:50,447.basic_expressions.INFO Python version:  3.11.4
+2023-08-25 15:42:50,447.basic_expressions.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-08-25 15:42:50,447.basic_expressions.INFO Working dir: /Users/jakerood/Documents/NW_Missouri/datafun-01-getting-started
+2023-08-25 15:42:50,447.basic_expressions.INFO ==================================================
+2023-08-25 15:42:50,447.basic_expressions.INFO Given base=12 and height=4, triangle area = 24.0
+2023-08-25 15:42:50,447.basic_expressions.INFO Given length=8 and width=6, rectangle area = 48
+2023-08-25 15:42:50,447.basic_expressions.INFO Given float_num1=3.6 and float_num2=4.8, sum = 8.4
+2023-08-25 15:42:50,447.basic_expressions.INFO Given num1=45 and num2=15, the difference = 30
