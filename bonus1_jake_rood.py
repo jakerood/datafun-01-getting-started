@@ -27,7 +27,7 @@ runs2 = int(runs2_string)
 runs3 = int(runs3_string)
 results = (runs1, runs2, runs3)
 
-# calculate the statistics using the numeric value (not the string) and round to two decimal places
+# calculate the statistics using the numeric value (not the string) 
 sum = sum(results)
 average = statistics.mean(results)
 product = runs1*runs2*runs3
